@@ -80,10 +80,10 @@ export default function ContactSection() {
                 <div>
                   <h4 className="font-semibold">Email</h4>
                   <a
-                    href="mailto:Mohamedkav5@gmail.com"
+                    href="mailto:mohamedkav5@gmail.com"
                     className="text-muted-foreground hover:text-accent transition-colors"
                   >
-                    Mohamedkav5@gmail.com
+                    mohamedkav5@gmail.com
                   </a>
                 </div>
               </motion.div>
@@ -100,7 +100,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-semibold">Phone</h4>
-                  <p className="text-muted-foreground">+91 9876543210</p>
+                  <p className="text-muted-foreground">+91 9025724686</p>
                 </div>
               </motion.div>
 
